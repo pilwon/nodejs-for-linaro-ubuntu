@@ -6,9 +6,9 @@ Compiled [Node.js](http://nodejs.org/) binaries for [Linaro Ubuntu](http://www.l
 ## How To Compile
 
 1. Set the system clock.
-2. ./configure --without-snapshot
-3. make
-4. make install
+2. `./configure --without-snapshot`
+3. `make`
+4. `make install`
 
 
 ## License
